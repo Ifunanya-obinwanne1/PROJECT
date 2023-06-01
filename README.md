@@ -1,4 +1,3 @@
-# PROJECT
 ### Personal practice project while learning python.
 Used Python to answer the following question of SMS Spam Collection dataset.
 
